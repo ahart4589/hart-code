@@ -1,3 +1,3 @@
-var myName
-myName = "Alexa"
-return myName
+var myName;
+myName = "Alexa Hart";
+return myName;
